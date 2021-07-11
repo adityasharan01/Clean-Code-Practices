@@ -63,4 +63,3 @@ if (checkIfCustomerIsEligibleForDiscount(customer)
  - Use blank lines judicially to describe separation of concepts and new ideas in a code.
  - Lines of code that are tightly linked should appear together without any break such as a blank line or a comment.
  - Concepts that are closely related should be kept vertically close to each other.
- -  
